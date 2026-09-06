@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2026-08-29",
+    "category": "Clothing",
+    "amount": 1149.0,
+    "note": "Anoop shirt"
+  },
+  {
+    "date": "2026-09-02",
+    "category": "Clothing",
+    "amount": 918.0,
+    "note": "Anoop shirt"
+  },
+  {
+    "date": "2026-09-02",
+    "category": "Clothing",
+    "amount": 878.6,
+    "note": "XYXX underwear"
+  },
+  {
+    "date": "2026-09-04",
+    "category": "Udhar",
+    "amount": 170.93,
+    "note": "Akash bhaiya"
+  },
+  {
+    "date": "2026-09-01",
+    "category": "Monthly Expense",
+    "amount": 15.0,
+    "note": "popcorn"
+  },
+  {
+    "date": "2026-09-02",
+    "category": "Monthly Expense",
+    "amount": 40.0,
+    "note": "noodeles and tea"
+  },
+  {
+    "date": "2026-09-02",
+    "category": "Monthly Expense",
+    "amount": 53.0,
+    "note": "dosa"
+  },
+  {
+    "date": "2026-09-02",
+    "category": "Monthly Expense",
+    "amount": 10.0,
+    "note": "milk"
+  },
+  {
+    "date": "2026-09-03",
+    "category": "Monthly Expense",
+    "amount": 75.0,
+    "note": "outing with hariom and dev"
+  },
+  {
+    "date": "2026-09-05",
+    "category": "Haircut",
+    "amount": 250.0,
+    "note": "mine haircut"
+  },
+  {
+    "date": "2026-09-06",
+    "category": "Monthly Expense",
+    "amount": 72.0,
+    "note": "milk , buttermilk , samosa"
+  },
+  {
+    "date": "2026-09-05",
+    "category": "Monthly Expense",
+    "amount": 10.0,
+    "note": "TEA"
+  },
+  {
+    "date": "2026-09-06",
+    "category": "Monthly Expense",
+    "amount": 35.0,
+    "note": "egg"
+  },
+  {
+    "date": "2026-09-06",
+    "category": "Monthly Expense",
+    "amount": 15.0,
+    "note": "milk"
+  },
+  {
+    "date": "2026-09-06",
+    "category": "Monthly Expense",
+    "amount": 10.06,
+    "note": "milk"
+  }
+]
